@@ -6,6 +6,10 @@
 
 **Kejanii** is a web-based platform (with a future mobile application) that helps students and residents find rental houses quickly and safely while enabling landlords to advertise vacant properties. 
 
+## 📸 Homepage
+
+![Homepage](screenshots/searchpage.png)
+
 The platform solves the traditional challenges of house hunting by allowing users to search, compare, and contact landlords directly from their phones or computers. 
 
 Beyond house listings, the platform will include: 
@@ -24,7 +28,30 @@ Beyond house listings, the platform will include:
 
 - 📈 Analytics for landlords 
 
+
+## 🏡 Property Listing
+
+![Listing](screenshots/listingpage.png)
+
 The long-term vision is to become **Kenya's largest rental discovery platform** . 
+
+## 🛠️ Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+## ⚙️ Profile Settings
+
+![Profile](screenshots/profile-settings.png)
+
+
+## 👤 Register & Login
+![Register](screenshots/registor-and-aunthentication-page.png)
+
+## **a future mobile application**
+## 📱 Mobile Mockup
+
+![Mobile](screenshots/mobile-mockup.png)
+
 
 ## **2. Problems We're Solving** 
 
