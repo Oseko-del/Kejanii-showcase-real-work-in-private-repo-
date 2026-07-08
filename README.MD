@@ -8,7 +8,7 @@
 
 ## 📸 Homepage
 
-![Homepage](screenshots/searchpage.png)
+![Homepage](screenshots/Searchpage.png)
 
 The platform solves the traditional challenges of house hunting by allowing users to search, compare, and contact landlords directly from their phones or computers. 
 
