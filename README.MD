@@ -41,16 +41,16 @@ The long-term vision is to become **Kenya's largest rental discovery platform** 
 
 ## ⚙️ Profile Settings
 
-![Profile](screenshots/profile-settings.png)
+![Profile](screenshots/profile-setting.png)
 
 
 ## 👤 Register & Login
-![Register](screenshots/registor-and-aunthentication-page.png)
+![Register](screenshots/registor-andaunthenticationpage.png)
 
 ## **a future mobile application**
 ## 📱 Mobile Mockup
 
-![Mobile](screenshots/mobile-mockup.png)
+![Mobile](screenshots/mobile-mockups.png)
 
 
 ## **2. Problems We're Solving** 
